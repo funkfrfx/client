@@ -3,7 +3,7 @@
   "Name": "Mpreg Sync",
   "Punchline": "Let others see you as you see yourself.",
   "Description": "This plugin will mpreg you.",
-  "InternalName": "mareSynchronos",
+  "InternalName": "mpregSync",
   "ApplicableVersion": "any",
   "Tags": [
     "customization"
