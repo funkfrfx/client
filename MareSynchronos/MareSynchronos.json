@@ -1,13 +1,13 @@
 {
-  "Author": "darkarchon",
-  "Name": "Mare Synchronos",
+  "Author": "Funk sucks at coding",
+  "Name": "Mpreg Sync",
   "Punchline": "Let others see you as you see yourself.",
-  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+  "Description": "This plugin will mpreg you.",
   "InternalName": "mareSynchronos",
   "ApplicableVersion": "any",
   "Tags": [
     "customization"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/MareSynchronos/client/main/MareSynchronos/images/logo.png",
-  "RepoUrl": "https://github.com/MareSynchronos/client"
+  "IconUrl": "https://raw.githubusercontent.com/funkfrfx/repo/refs/heads/main/MareSynchronos/images/icon.png",
+  "RepoUrl": "https://github.com/funkfrfx/client"
 }
